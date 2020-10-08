@@ -1,6 +1,6 @@
 {
   "name": "oauth2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Repro for https://github.com/googleapis/google-auth-library-nodejs/issues/636",
   "main": "getToken-no-reject.js",
   "dependencies": {
